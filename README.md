@@ -1,1 +1,1 @@
-"# mybatis-generator-demo ×Ô¶¨ÒåÀà×¢ÊÍÉú³ÉÀà" 
+"# mybatis-generator-demo è‡ªå®šä¹‰ç±»æ³¨é‡Šç”Ÿæˆç±»" 
