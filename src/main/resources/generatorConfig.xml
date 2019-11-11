@@ -28,6 +28,6 @@
         <sqlMapGenerator targetPackage="mappers" targetProject="./src/main/resources"/>
         <javaClientGenerator type="XMLMAPPER" targetPackage="ai.guiji.mybatisgeneratordemo.mapper" targetProject="./src/main/java"/>
 
-        <table tableName="tb_line_supplier" domainObjectName="LineSupplier"  enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false"></table>
+        <table tableName="t_oss_auth_comcode" domainObjectName="TOssAuthComcode"  enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false"></table>
     </context>
 </generatorConfiguration>
